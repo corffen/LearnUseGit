@@ -12,8 +12,6 @@ fun add(){
 }
 
 fun add3(){
-    println("gordon add some features")
-}
-fun add2(){
-    println("gordon add some features")
+    println("corffen add some features")
+    println("corffen some ")
 }
