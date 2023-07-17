@@ -20,3 +20,7 @@ fun add3(){
 fun add4(){
     println("lean git add fun4")
 }
+
+fun add5(){
+    println("git learn git add5")
+}
