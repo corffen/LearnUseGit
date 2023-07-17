@@ -9,15 +9,12 @@ fun main(args: Array<String>) {
 fun add(){
     println("add feature-5")
     println("fix bug-  learn git")
+    println("add feature-002")
 }
 
 fun add3(){
     println("corffen add some features")
     println("corffen some ")
-}
-
-fun add3(){
-    println("gordon add some features")
 }
 
 fun add5(){
