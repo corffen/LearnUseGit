@@ -7,6 +7,10 @@ fun main(args: Array<String>) {
 }
 
 fun add(){
-    println("add feature-1")
+    println("add feature-3")
     println("fix bug- corffen")
+}
+
+fun add3(){
+    println("gordon add some features")
 }
