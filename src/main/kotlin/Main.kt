@@ -12,6 +12,10 @@ fun add(){
 }
 
 fun add3(){
-    println("corffen add some features")
-    println("corffen some ")
+    println("gordon add some features learn git")
+    println("gordon some learn git")
+}
+
+fun add4(){
+    println("lean git add fun4")
 }
