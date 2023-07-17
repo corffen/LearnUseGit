@@ -7,22 +7,14 @@ fun main(args: Array<String>) {
 }
 
 fun add(){
-    println("add feature-3")
-    println("fix bug- corffen")
-    println("delete line")
+    println("add feature-5")
+    println("fix bug-  learn git")
+    println("add feature-002")
 }
 
 fun add3(){
-    println("gordon add some features learn git")
-    println("gordon some learn git")
-}
-
-fun add4(){
-    println("lean git add fun4")
-}
-
-fun add3(){
-    println("gordon add some features")
+    println("corffen add some features")
+    println("corffen some ")
 }
 
 fun add5(){
