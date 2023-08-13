@@ -13,7 +13,6 @@ class Client {
     fun modify(){
         println("modify 1")
         println("modify 2")
-        println("modify 3")
     }
     fun find(){
         println("find 1")
